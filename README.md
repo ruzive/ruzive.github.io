@@ -1,7 +1,7 @@
 # Data Scientist/Analyst 
 <h1 align="center">Hi 👋, I'm Ruzive Mazhandu</h1>
 <h3 align="center">Unleashing the Power of Data for Business Success</h3>
-<img align="right" alt="Coding" width="400" src="https://www.caxsol.com/assets/img/data-analysis.gif")>
+<img align="right" alt="Coding" width="400" src="https://www.caxsol.com/assets/img/data-analysis.gif">
 
 #### Technical Skills: Python, R, Java, Tableau, R-Shiny, SQL
 
