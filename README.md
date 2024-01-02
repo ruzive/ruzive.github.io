@@ -3,32 +3,34 @@
 <h3 align="center">Unleashing the Power of Data for Business Success</h3>
 <img align="right" alt="Coding" width="400" src="https://www.caxsol.com/assets/img/data-analysis.gif")>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shrihari2795&label=Profile%20views&color=0e75b6&style=flat" alt="shrihari2795" /> </p>
+#### Technical Skills: Python, R, Java, Tableau, R-Shiny, SQL
 
-- 🔭 I’m currently working on **Google Data Analytics Certification**
+## Education			🔭					       		
+- M.S., Data Science and Analytics	| University of Leeds (_December 2017_)	 			        		
+- B.S., Computing | University of Greenwich  (_December 2009_)
 
-- 🌱 I’m currently learning **R Programming Language and Tableau**
+## Work Experience  🔭
+**Data Analyst @ Digipro Limited(_December 2020 - Present_)**
+- Designing reports and dashboards from user requirements using Tableau and R-Shiny,
+- extracting & analysing complex and sensitive data to support the monitoring requirements to meet partners targets using SQL
 
-- 👯 I’m looking to collaborate on **Data Analysis and Business Intelligence opportunities**
+**Solutions Architect @ Digital Prophets  (_December 2020 - December 2023_)**
+- Designing systems from user requirements, including Development of an interactive open source based digital platform for comprehensive data management of intersex and trans-persons in Zambia
+- Serving as a liaison between the business and development teams
+  
+**Lead Systems Architect @ Zamtel  (_December 2019 - January 2021_)**
+- Designing systems from user requirements, notably Churn prediction and Number management
+- Facilitating communication between business and development teams
+- Collaborating with vendors and potential partners to enhance the mobile money ecosystem
+- Managing maintenance procedures and capacity planning for mobile money applications and support elements
+  
 
-- 📝 I regularly write articles on [https://www.linkedin.com/feed/update/urn:li:activity:7132520720646971392/](https://www.linkedin.com/feed/update/urn:li:activity:7132520720646971392/)
+## Projects 🔭
 
-- 💬 Ask me about **SQL, Excel, PowerBI**
+### In progress
+[Tableau Dashboard](https://public.tableau.com/app/profile/ruzive.mazhandu/viz/FirstSteps-Learning1/SuperstoreDashboard?publish=yes)
 
-- 📫 How to reach me **shrihari.sadagopan@gmail.com**
+[R-Shiny](https://ruzml.shinyapps.io/ShinyD/_w_c1828248/_w_1eb11b4e/#!/)
 
-- ⚡ Fun fact **Interestingly, I find that the strategic and precise nature of snooker has taught me valuable life lessons about focus, patience, and meticulous planning.**
+[Kaggle](https://www.kaggle.com/code/ruzive/customer-shopping-trends/notebook)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/shrihari sadagopan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shrihari sadagopan" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shrihari2795&show_icons=true&locale=en&layout=compact" alt="shrihari2795" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shrihari2795&show_icons=true&locale=en" alt="shrihari2795" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shrihari2795&" alt="shrihari2795" /></p>
