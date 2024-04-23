@@ -28,9 +28,13 @@
 ## Projects 🔭
 
 ### In progress
+[Web development(Django/NextJS/Postgres)](https://wilgrajo.com)
+
 [Tableau Dashboard](https://public.tableau.com/app/profile/ruzive.mazhandu/viz/FirstSteps-Learning1/SuperstoreDashboard?publish=yes)
 
 [R-Shiny](https://ruzml.shinyapps.io/ShinyD/_w_c1828248/_w_1eb11b4e/#!/)
 
 [Kaggle](https://www.kaggle.com/code/ruzive/customer-shopping-trends/notebook)
+
+
 
