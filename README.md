@@ -28,7 +28,7 @@
 ## Projects 🔭
 
 ### In progress
-[Web development(Django/NextJS/Postgres)](https://wilgrajo.com)
+[Web development(Django/NextJS/Postgres)](https://www.wilgrajo.com)
 
 [Tableau Dashboard](https://public.tableau.com/app/profile/ruzive.mazhandu/viz/FirstSteps-Learning1/SuperstoreDashboard?publish=yes)
 
